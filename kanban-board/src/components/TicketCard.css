@@ -1,0 +1,14 @@
+/* src/components/TicketCard.css */
+.ticket-card {
+  background-color: #ffffff;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.ticket-card h3 {
+  margin: 0;
+  font-size: 18px;
+}
+

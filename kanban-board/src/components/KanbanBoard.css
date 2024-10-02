@@ -1,0 +1,6 @@
+/* src/components/KanbanBoard.css */
+.kanban-board {
+  display: flex;
+  justify-content: space-between;
+}
+
